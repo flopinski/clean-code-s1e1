@@ -163,7 +163,7 @@ outline: none;
   display: none;
 }
 
-.tasks-list .tasks-item.edit-mode input[type=text] {
+.tasks-list .tasks-item.edit-mode .add-input[type=text] {
   display: inline-block;
   width: 224px;
 }
